@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages aka broke student's way of having a website
+## Welcome to GitHub Pages 
+## aka broke student's way of having a website
 
 You can use the [editor on GitHub](https://github.com/Rcin/ihaveawebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
